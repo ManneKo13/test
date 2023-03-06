@@ -3,6 +3,8 @@ def main():
     print()
     print("This is a new sentence!")
 
+    a = 3
+
 
 if __name__ == "__main__":
     main()
